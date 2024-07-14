@@ -29,7 +29,7 @@ Date: 5/09/21
 
 Requirements summary: 
 
-<b> • Methodology: Does the team have an appropraite methodology for data analysis? </b> 
+<b> • Methodology: Does the team have an appropriate methodology for data analysis? </b> 
 
 <b> • Presentation: Does the team present their slide deck smoothly and effectively? </b> 
 
